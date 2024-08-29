@@ -1,6 +1,6 @@
 # Random projects list
 
-In this repository you will find my implementations of all started projects listed on [this GitHub repository](https://github.com/karan/Projects)
+In this repository you will find my implementations of all starter-projects listed on [this GitHub repository](https://github.com/karan/Projects)
 
 ## Table of Contents
 
