@@ -7,13 +7,13 @@ In this repository you will find my implementations of all starter-projects list
 > **bold*** = not empty;
 > *italic* = empty
 
-- [*Numbers*](./Numbers)
+- [**Numbers**](./Numbers)
 - [**Classic Algorithms***](./Classic%20Algorithms/)
 - [*Graph*](./Graph/)
 - [*Data Structures*](./Data%20Structures/)
 - [**Text***](./Text/)
 - [*Networking*](./Networking/)
-- [*Classes*](./Classes/)
+- [**Classes**](./Classes/)
 - [*Threading*](./Threading/)
 - [*Web*](./Web/)
 - [*Files*](./Files/)
